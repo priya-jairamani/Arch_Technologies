@@ -46,3 +46,9 @@ Clone the repository:
 ```bash
 https://github.com/priya-jairamani/Arch_Technologies.git
 cd Arch-Technologies
+## 👥 Group Members
+
+| Name            | Role         | GitHub Profile                                               |
+|-----------------|--------------|---------------------------------------------------------------|
+| Laiba Gabol     | Contrubutor | [github.com/LaibaGabol](https://github.com/LaibaGabol)       |
+| Priya Jairamani | Contributor  | [github.com/priya-jairamani](https://github.com/priya-jairamani) |
